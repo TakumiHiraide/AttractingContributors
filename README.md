@@ -32,3 +32,4 @@ Goal - I want contributions to help me list soem favorite mathmatical textbook.
 6. 小寺平治 1984 明快演習 微分積分　共立出版
 7. 小寺平治 1986 明快演習 数理統計　共立出版
 8. 田島一郎 1981 解析入門　岩波書店
+9. トランスナショナル カレッジ オブ レックス編 1988 フーリエの冒険　ヒッポファミリークラブ
