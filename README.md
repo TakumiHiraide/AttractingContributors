@@ -25,3 +25,4 @@ Goal - I want contributions to help me list soem favorite mathmatical textbook.
 
 # List of Hobby
 1. 小平邦彦 2003 解析入門Ⅰ・Ⅱ　軽装版　岩波書店
+2. 松坂和夫 1960 集合・位相入門　岩波書店
