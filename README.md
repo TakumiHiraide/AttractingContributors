@@ -27,3 +27,4 @@ Goal - I want contributions to help me list soem favorite mathmatical textbook.
 1. 小平邦彦 2003 解析入門Ⅰ・Ⅱ　軽装版　岩波書店
 2. 松坂和夫 1960 集合・位相入門　岩波書店
 3. 斎藤正彦 2006 微分積分学 東京図書
+4. 斎藤正彦 2014 線型代数学　東京図書
