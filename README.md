@@ -33,3 +33,4 @@ Goal - I want contributions to help me list soem favorite mathmatical textbook.
 7. 小寺平治 1986 明快演習 数理統計　共立出版
 8. 田島一郎 1981 解析入門　岩波書店
 9. トランスナショナル カレッジ オブ レックス編 1988 フーリエの冒険　ヒッポファミリークラブ
+10. 金谷健一 2005 これからわかる最適化数学ー基礎原理から最適化手法までー　共立出版
