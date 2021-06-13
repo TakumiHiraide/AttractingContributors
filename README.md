@@ -1,6 +1,9 @@
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
+# StudentID
+2111190
+
 # Rules
 
 1. Please choose a hobby or some interest that you want to build your repository
@@ -15,9 +18,10 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+# Myproject (Mathmatical textbook collection)
+Goal - I want contributions to help me list soem favorite mathmatical textbook.
+
 
 # List of Hobby
+1. 小平邦彦 2003 解析入門Ⅰ・Ⅱ　軽装版　岩波書店
